@@ -1,2 +1,2 @@
-# git_rensyu_no2
+# git_rensyu
 gitの練習です。
